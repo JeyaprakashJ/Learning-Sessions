@@ -1,0 +1,149 @@
+{
+    "states": 
+    [
+        {
+            "state_name": "Andhra Pradesh",
+            "capital": "Hyderabad"
+        },
+        {
+            "state_name": "Arunachal Pradesh",
+            "capital": "Itanagar"
+        },
+        {
+            "state_name": "Assam",
+            "capital": "Dispur"
+        },
+        {
+            "state_name": "Bihar",
+            "capital": "Patna"
+        },
+        {
+            "state_name": "Chhattisgarh",
+            "capital": "Raipur"
+        },
+        {
+            "state_name": "Goa",
+            "capital": "Panaji"
+        },
+        {
+            "state_name": "Gujarat",
+            "capital": "Gandhinagar"
+        },
+        {
+            "state_name": "Haryana",
+            "capital": "Chandigarh"
+        },
+        {
+            "state_name": "Himachal Pradesh",
+            "capital": "Shimla"
+        },
+        {
+            "state_name": "Jammu & Kashmir",
+            "capital": "Srinagar(Summer)/Jammu(Winter)"
+        },
+        {
+            "state_name": "Jharkhand",
+            "capital": "Ranchi"
+        },
+        {
+            "state_name": "Karnataka",
+            "capital": "Bengaluru"
+        },
+        {
+            "state_name": "Kerala",
+            "capital": "Thiruvananthapuram"
+        },
+        {
+            "state_name": "Madhya Pradesh",
+            "capital": "Bhopal"
+        },
+        {
+            "state_name": "Maharashtra",
+            "capital": "Mumbai"
+        },
+        {
+            "state_name": "Manipur",
+            "capital": "Imphal"
+        },
+        {
+            "state_name": "Meghalaya",
+            "capital": "Shillong"
+        },
+        {
+            "state_name": "Mizoram",
+            "capital": "Aizawl"
+        },
+        {
+            "state_name": "Nagaland",
+            "capital": "Kohima"
+        },
+        {
+            "state_name": "Odisha",
+            "capital": "Bhubaneswar"
+        },
+        {
+            "state_name": "Punjab",
+            "capital": "Chandigarh"
+        },
+        {
+            "state_name": "Rajasthan",
+            "capital": "Jaipur"
+        },
+        {
+            "state_name": "Sikkim",
+            "capital": "Gangtok"
+        },
+        {
+            "state_name": "Tamil Nadu",
+            "capital": "Chennai"
+        },
+        {
+            "state_name": "Telangana",
+            "capital": "Hyderabad"
+        },
+        {
+            "state_name": "Tripura",
+            "capital": "Agartala"
+        },
+        {
+            "state_name": "Uttar Pradesh",
+            "capital": "Lucknow"
+        },
+        {
+            "state_name": "Uttarakhand",
+            "capital": "Dehradun"
+        },
+        {
+            "state_name": "West Bengal",
+            "capital": "Kolkata"
+        },
+        {
+            "state_name": "Andaman & Nicobar Islands",
+            "capital": "Port Blair"
+        },
+        {
+            "state_name": "Chandigarh",
+            "capital": "Chandigarh"
+        },
+        {
+            "state_name": "Dadra & Nagar Haveli",
+            "capital": "Silvassa"
+        },
+        {
+            "state_name": "Daman & Diu",
+            "capital": "Daman"
+        },
+        {
+            "state_name": "Lakshadweep",
+            "capital": "Kavaratti"
+        },
+        {
+            "state_name": "Puducherry",
+            "capital": "Puducherry"
+        },
+        {
+            "state_name": "Delhi",
+            "capital": "New Delhi"
+        }
+    ]
+}
